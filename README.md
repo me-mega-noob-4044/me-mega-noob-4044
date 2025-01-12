@@ -15,6 +15,7 @@ professional human being specializing in common sense
 <div style="display: inline;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" width="50" height="50">
 </div>
 
 ## tools that i use
