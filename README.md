@@ -30,4 +30,5 @@ professional human being specializing in common sense
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/vscode/vscode-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/webpack/webpack-original.svg" width="50" height="50 />
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/electron/electron-original.svg" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/electron/electron-original.svg" width="50" height="50" />
 </div>
