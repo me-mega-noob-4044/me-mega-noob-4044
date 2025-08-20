@@ -1,6 +1,6 @@
 ## me-mega-noob-4044
 
-professional human being specializing in common sense
+a person who codes and tries to learn from his failures
 
 ---
 
