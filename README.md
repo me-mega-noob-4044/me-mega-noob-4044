@@ -1,6 +1,6 @@
 ## megaofmegalodon
 
-a person who codes and tries to learn from his failures
+human being who can code a bit
 
 ---
 
