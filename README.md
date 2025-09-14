@@ -15,7 +15,6 @@ human being who can code a bit
 </div>
 
 <div style="display: flex;">
-  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLHdY5kEI1kMs_CzI2yMzH6z6eIOMPg7-dw&s" width="50" height="50" />
 </div>
 
