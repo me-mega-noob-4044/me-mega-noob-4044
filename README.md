@@ -14,10 +14,6 @@ human being who can code a bit
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" width="50" height="50" />
 </div>
 
-<div style="display: flex;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLHdY5kEI1kMs_CzI2yMzH6z6eIOMPg7-dw&s" width="50" height="50" />
-</div>
-
 ### tools
 
 <div style="display: flex;">
